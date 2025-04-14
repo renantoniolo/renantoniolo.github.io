@@ -92,7 +92,7 @@ if (contactForm) {
     contactForm.reset()
 
     // Show success message (you can replace this with a more elegant solution)
-    alert("Thank you for your message! I will get back to you soon.")
+    alert("Obrigado pelo contato! Responderei em breve.")
   })
 }
 
